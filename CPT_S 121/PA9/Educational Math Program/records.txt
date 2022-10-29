@@ -1,0 +1,10 @@
+jnc 0
+jnc 0
+jnc 40
+snr 120
+jnc 80
+jnc 72
+jnc 168
+snr 160
+snr 210
+snr 202
