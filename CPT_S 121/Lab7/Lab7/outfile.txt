@@ -1,0 +1,10 @@
+				Current Month: 7	Year: 2019
+
+  Order	Customer number		Number of hours used	Total charge	Average cost per hour
+    1	     23645		          25.40	               39.83	           1.57
+    2	     11122		           9.50	                7.99	           0.84
+    3	     10236		          30.00	               47.79	           1.59
+    4	     55612		         136.75	              260.72	           1.91
+    5	     33333		         450.25	              885.58	           1.97
+    6	     36988		         600.00	             1182.09	           1.97
+    7	     65473		         558.40	             1100.50	           1.97
